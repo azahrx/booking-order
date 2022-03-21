@@ -1,4 +1,4 @@
-from odoo import api, fields, models
+from odoo import api, fields, models, _
 import time
 
 class WorkOrder(models.Model):
